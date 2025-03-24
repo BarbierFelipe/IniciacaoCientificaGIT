@@ -3,6 +3,7 @@
 # /Time series ====
 # Produto: Iniciação Científica
 #-------------------------------------------------------#
+#carambaaaaaaaaa
 
 rm(list=ls())
 getwd()
